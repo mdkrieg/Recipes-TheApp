@@ -2,4 +2,4 @@
 
 Supporting the website: https://recipes.ddns.me
 
-If you find a bug, open an Issue and tell me what's going on.
+[***Bug Report or Feature Request? open an Issue and tell about it***](https://github.com/mdkrieg/Recipes-TheApp/issues).
