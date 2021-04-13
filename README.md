@@ -2,7 +2,7 @@
 
 Supporting the website: https://recipes.ddns.me
 
-![image](https://user-images.githubusercontent.com/66855036/114594426-daf9fe00-9c52-11eb-99d0-4154102aeefd.png)
+![image](https://recipes.ddns.me)
 
 
 [***Bug Report or Feature Request? open an Issue and tell me about it***](https://github.com/mdkrieg/Recipes-TheApp/issues).
