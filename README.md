@@ -14,6 +14,7 @@ This section is to keep track of the features to be added next.
 - Nutritional breakdown of recipe
 
 ## Collections
+Each section should have the ability to save groups of items / recipes
 - Collections in recipes
 	- Show % of each collection that is in pantry
 	- Button to create shoplist from collection
