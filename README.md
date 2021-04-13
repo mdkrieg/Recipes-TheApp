@@ -2,10 +2,13 @@
 
 Supporting the website: https://recipes.ddns.me
 
+![image](https://user-images.githubusercontent.com/66855036/114594426-daf9fe00-9c52-11eb-99d0-4154102aeefd.png)
+
+
 [***Bug Report or Feature Request? open an Issue and tell me about it***](https://github.com/mdkrieg/Recipes-TheApp/issues).
 
 # Recipes-TheRoadmap
-
+This section is to keep track of the features to be added next.
 ## General
 - Show the # or % of ingredients in pantry on recipe face
 - Nutritional breakdown of recipe
