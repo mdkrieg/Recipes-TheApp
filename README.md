@@ -1,6 +1,12 @@
 # Recipes-TheDocumentation
 
-Supporting the website: https://recipes.ddns.me
+Supporting the website (DEFUNCT): http://recipes.ddns.me
+
+TODO:
+[ ] - Remove proprietary PHP user script / other PHP functions - package as pure node app
+[ ] - ^^^RE: Above, stage on Heroku so people can interact and contribute more easily
+
+Below is out of date as the site is no longer up,
 
 ![image](https://user-images.githubusercontent.com/66855036/114594426-daf9fe00-9c52-11eb-99d0-4154102aeefd.png)
 
